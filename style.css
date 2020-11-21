@@ -1,0 +1,26 @@
+.fa-bars 
+{
+    margin-left: 10px;
+}
+
+.fa-youtube {
+    margin-left: 30px;
+    display: inline;
+    font-size: 22px;
+    color: red;
+    margin-top: 6px;
+}
+
+.head1 {
+    position: relative ;
+}
+
+.head1 span {
+    
+    font-size: 23px;
+    display: inline;
+}
+
+.head2 {
+    position: absolute;
+}

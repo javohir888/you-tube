@@ -23,4 +23,20 @@
 
 .head2 {
     position: absolute;
+    top: 20px;
+    right: 500px;
+}
+
+.head2 input {
+    width: 600px;
+    height: 25px;
+}
+
+.fa-search {
+    border: 1.3px solid black;
+    padding: 6px 25px;
+    position: absolute;
+    right: -16px;
+    background-color: rgb(238, 231, 231) ;
+    margin-top: 0.3px;
 }

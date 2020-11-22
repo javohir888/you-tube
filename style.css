@@ -1,3 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding-bottom: 50px;
+}
+
 .fa-bars 
 {
     position: absolute;
@@ -59,8 +67,6 @@
 }
 
 
-
-
 .head3 {
     position: absolute;
     top: 1px;
@@ -81,3 +87,69 @@
 .fa-user-circle {
     font-size: 30px;
 }
+
+.centr {
+    background-color: rgb(241, 231, 231);
+}
+
+.vid1 {
+    margin-top: 8px;
+    margin-left: 50px;
+}
+
+.centr1 {
+    float: left;
+    width: 70%;
+}
+.centr2 {
+    float: left;
+    width: 30%;
+    margin-top: 8px;
+}
+
+.vim {
+    font-size:34px;
+    text-decoration: 2px underline solid white;
+    color: rgb(66, 58, 58);
+}
+
+.butn {
+    height: 40px;
+    width: 120px;
+    margin-left: 15px;
+    background-color: rgb(223, 63, 63);
+    border: none;
+    border-radius: 3px;
+}
+
+.auto {
+    margin-left: 235px;
+}
+
+.fa-check-circle {
+    font-size: x-large;
+    color: blue;
+}
+
+.vid2,
+.vid3,
+.vid4,
+.vid5,
+.vid6,
+.vid7,
+.vid8 {
+    float: left;
+}
+
+.vid3,
+.vid5,
+.vid7 {
+    margin: 8px 0;
+}
+
+
+
+
+
+
+

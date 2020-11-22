@@ -137,15 +137,14 @@ header {
 .vid5,
 .vid6,
 .vid7,
-.vid8 {
+.vid8,
+.vid9,
+.vid10 {
     float: left;
+    margin: 5px 10px 5px 0;
 }
 
-.vid3,
-.vid5,
-.vid7 {
-    margin: 8px 0;
-}
+
 
 
 
